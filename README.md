@@ -10,7 +10,7 @@ This repository contains the code and analysis notebooks for the project investi
   - `modules/`: Python modules with helper functions for behavioral data loading and session analysis.
 - `Neural Analyses/`: Contains Jupyter Notebooks for fiber photometry data analysis.
   - `modules/`: Python modules with helper functions for fiber photometry data processing and analysis.
-- `data/`: This directory is intended for the raw data files (`.mat`, `.csv`). The data is not tracked by Git but can be requested or downloaded from [link to data repository, e.g., Zenodo, Figshare].
+- `data/`: 
 
 ## Getting Started
 
