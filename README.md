@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the code and analysis notebooks for the project investigating the effects of a dual enkephalinase inhibitor on stress-induced behavioral and neural deficits in animal models. The analysis focuses on licking behavior as a proxy for motivational and reward-seeking behavior, as well as fiber photometry data for neural activity.
+This repository contains the code and analysis notebooks for the project investigating the effects of a dual enkephalinase inhibitor on stress-induced behavioral and neural deficits in mice. The analysis focuses on licking behavior as a proxy for motivational and reward-seeking behavior, as well as fiber photometry data for neural activity.
 
 ## Repository Structure
 
