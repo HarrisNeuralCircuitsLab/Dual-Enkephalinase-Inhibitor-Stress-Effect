@@ -1,25 +1,11 @@
-# Data files
-*.mat
-*.csv
-*.avi
-*.mp4
-*.wav
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# DANDI and data folders
+my-local-dandiset-with-video/
+my-dandiset-organized/
+/sub-*/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# IDE/Editor specific files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS specific files
-.DS_Store
-Thumbs.db
+# Python cache
+__pycache__/
+*.pyc
