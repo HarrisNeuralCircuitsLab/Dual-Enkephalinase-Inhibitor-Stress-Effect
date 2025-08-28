@@ -6,12 +6,6 @@ This repository contains the code and analysis notebooks for the project investi
 
 The code that was developed to conduct the experiments and analyse the data, was made available at: https://github.com/HarrisNeuralCircuitsLab/Dual-Enkephalinase-Inhibitor-Stress-Effect
 
-## Data Availability
-
-The data collected at this phase are available with NWB format at: https://dandiarchive.org/dandiset/001564
-
-This code can be applied directly at the unformatted data uploaded at https://zenodo.org/uploads/16967794
-
 ## Repository Structure
 
 - `Behavioral Analyses/`: Contains Jupyter Notebooks for behavioral data analysis for each animal.
@@ -30,6 +24,11 @@ This code can be applied directly at the unformatted data uploaded at https://ze
   ```bash
   pip install numpy pandas matplotlib scipy
   ```
+## Data Availability
+
+The data collected at this phase are available in NWB format at: https://dandiarchive.org/dandiset/001564
+
+This code can be applied directly to the unformatted data uploaded at https://zenodo.org/uploads/16967794
 
 ### Usage
 
