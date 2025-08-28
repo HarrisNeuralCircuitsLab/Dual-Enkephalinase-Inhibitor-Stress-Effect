@@ -12,7 +12,6 @@ The code that was developed to conduct the experiments and analyse the data, was
   - `modules/`: Python modules with helper functions for behavioral data loading and session analysis.
 - `Neural Analyses/`: Contains Jupyter Notebooks for fiber photometry data analysis.
   - `modules/`: Python modules with helper functions for fiber photometry data processing and analysis.
-- `data/`: 
 
 ## Getting Started
 
@@ -37,7 +36,7 @@ This code can be applied directly to the unformatted data uploaded at https://ze
     git clone [URL of this repository]
     ```
 2.  **Place the data:**
-    Download the data and place the animal session folders into a `data/` directory at the root of the project.
+    Download the data and place the animal session folders into a `Data/` directory at the root of the project.
 3.  **Update data path:**
     In the notebooks, update the `DATA_DIR` variable to point to the `data/` directory.
 4.  **Run the analysis:**
